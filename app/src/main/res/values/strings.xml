@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="searchbarimage">searchbar image</string>
+    <string name="search_articles_by_keyword">Search articles by keyword…</string>
+    <string name="searchbar">searchbar</string>
+    <string name="resource">…</string>
+    <string name="news_image">News image</string>
+    <string name="title_here">Title here</string>
+    <string name="description_here">Description here</string>
+    <string name="newsitem">newsItem</string>
+    <string name="image">image</string>
+    <string name="go_back">Go Back</string>
+</resources>
